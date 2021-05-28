@@ -1,0 +1,41 @@
+li.auth {
+    list-style-type: none;
+}
+li.auth {
+    float: left;
+    padding: 5px 25px;
+    border: 1px solid #444;
+    margin-left: 5px;
+}
+a.navlink {
+    color: #444;
+}
+a.navlink:hover {
+    color: #444;
+}
+li.auth.login {
+    border: 1px solid rgb(25, 107, 230);
+    background: rgb(25, 107, 230);
+}
+a.navlink-log {
+    color: #fff;
+}
+.static {
+    float: left;
+    padding: 5px 25px;
+
+    margin-left: 5px;
+    list-style: none;
+    font-weight: bolder;
+    /* background-color: rgb(95, 90, 88); */
+    border: none;
+    border: 1px solid #444;
+}
+.static:hover {
+    color: #444;
+    background-color: cornflowerblue;
+    font-weight: bolder;
+}
+.imgl {
+    margin-top: -55px;
+}

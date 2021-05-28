@@ -1,0 +1,11 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+#login {
+    width: 400px;
+    margin-top: 200px;
+    box-shadow: -1px 1px 60px 10px black;
+    text-align: center;
+    padding-top: 15px;
+}

@@ -1,0 +1,23 @@
+.profile.mr-3 {
+    margin-top: 20px;
+}
+.bg-blue {
+    background: rgb(122, 27, 247);
+}
+a.btn.btn-dark.btn-sm.btn-block {
+    background: #7a1bf7;
+    border: 1px solid #fff;
+}
+.col-lg-6 {
+    float: left;
+}
+.items {
+    margin-top: 30px;
+}
+.tn-news {
+    display: flex;
+    align-items: center;
+}
+.tn-title {
+    padding: 10px 15px;
+}

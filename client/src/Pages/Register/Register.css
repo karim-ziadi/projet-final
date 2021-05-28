@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+#register {
+    margin-top: 100px;
+    box-shadow: -1px 1px 60px 10px black;
+    margin-right: 250px !important;
+}
+#register > h3,
+label,
+input {
+    color: rgba(39, 97, 223, 0.986);
+    text-align: center !important;
+    font-style: oblique;
+    font-weight: bold;
+}
